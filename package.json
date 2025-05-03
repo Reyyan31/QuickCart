@@ -16,8 +16,6 @@
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "react-hot-toast": "^2.5.1",
-    "@prisma/client": "^5.0.0",
-  "@prisma/cli": "^5.0.0",
     "styled-jsx": "^5.1.7"
   },
   "devDependencies": {
